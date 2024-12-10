@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_tab_1" android:title="Picture Card" android:icon="@drawable/picplace"/>
+    <item android:id="@+id/menu_tab_2" android:title="Login" android:icon="@drawable/login"/>
+
+</menu>
